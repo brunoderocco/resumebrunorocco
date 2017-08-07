@@ -1,2 +1,1 @@
-# resumebrunorocco
-Curríulo do Bruno De Rocco.
+# fabiopicolijr.github.io
